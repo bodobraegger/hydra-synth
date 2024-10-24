@@ -4,6 +4,7 @@
   "description": "base synth for hydra-editor",
   "type": "module",
   "main": "./src/index.js",
+  "types": "./types/index.d.ts",
   "exports": {
     ".": {
       "import": "./src/hydra-synth.js",
